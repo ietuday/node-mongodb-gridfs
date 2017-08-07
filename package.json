@@ -1,13 +1,13 @@
 {
   "name": "gridfs-demo",
   "version": "0.1.0",
-  "description": "Simple demo that show how we can upload filesin mongoDB gridFS system",
+  "description": "Simple demo that show how we can upload files in mongoDB gridFS system",
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/houssem-yahiaoui/mongdb-gridfs-demo.git"
+    "url": "git+https://github.com/ietuday/node-mongodb-gridfs.git"
   },
-  "author": "Houssem Yahiaoui <houssem.yahiaoui.ai@gmail.com>",
+  "author": "Udayaditya Singh <udayaditya.singh@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "busboy-body-parser": "^0.2.0",
